@@ -1,0 +1,32 @@
+{
+  "songs": [
+    {
+      "title": "Frozen",
+      "artist": "Madonna",
+      "genre": "Pop",
+      "rating": "5",
+      "id": 1
+    },
+    {
+      "title": "Blu",
+      "artist": "Zucchero",
+      "genre": "Rhythm and blues",
+      "rating": "5",
+      "id": 2
+    },
+    {
+      "title": "Smells Like Teen Spirit",
+      "artist": "Nirvana",
+      "genre": "Rock",
+      "rating": "5",
+      "id": 3
+    },
+    {
+      "title": "Nocturne op.9 No.2",
+      "artist": "Chopin",
+      "genre": "Classical",
+      "rating": "5",
+      "id": 4
+    }
+  ]
+}
